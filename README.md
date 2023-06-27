@@ -142,3 +142,16 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fatapas%2Fadd-copyright.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fatapas%2Fadd-copyright?ref=badge_large)
+
+
+# Lorenzo's commands
+
+C code
+```
+find <SOURCE_CODE_DIRECTIRY>  -name "*.c" -print0 | xargs -0 ./addcopyright_C.sh
+```
+
+Python
+```
+find <SOURCE_CODE_DIRECTIRY>  -name "*.py" -print0 | xargs -0 ./addcopyright_python.sh
+```
