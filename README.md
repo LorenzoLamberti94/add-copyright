@@ -148,10 +148,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 C code
 ```
+export COPYRIGHTLEN=`wc -l copyright_C.txt | cut -f1 -d ' '`
 find <SOURCE_CODE_DIRECTIRY>  -name "*.c" -print0 | xargs -0 ./addcopyright_C.sh
 ```
 
 Python
 ```
+export COPYRIGHTLEN=`wc -l copyright_python.txt | cut -f1 -d ' '`
 find <SOURCE_CODE_DIRECTIRY>  -name "*.py" -print0 | xargs -0 ./addcopyright_python.sh
 ```
