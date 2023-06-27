@@ -1,5 +1,5 @@
 ﻿#-------------------------------------------------------------------------------#
-# Copyright (C) 2023 University of Bologna, Italy.								#
+# Copyright (C) 2023 University of Bologna, Italy, ETH Zürich, Switzerland.     #
 # All rights reserved.                                                          #
 #                                                                               #
 # Licensed under the Apache License, Version 2.0 (the "License");               #
@@ -15,11 +15,12 @@
 # See the License for the specific language governing permissions and           #
 # limitations under the License.                                                #
 #                                                                               #
-# File:   	SSD_tin_can_bottle.py                                               #
-# Authors: 									   									#
-#	  		Lorenzo Lamberti 	<lorenzo.lamberti@unibo.it>						#
-#         	Luca Bompani  		<luca.bompani5@unibo.it>						#
-#			Manuele Rusci 		<manuele.rusci@kuleuven.be>						#
-#			Daniele Palossi 	<dpalossi@ethz.ch> <daniele.palossi@supsi.ch>	#
-# Date:   	01.04.2023                                                          #
-#-------------------------------------------------------------------------------#    
+# File:     SSD_tin_can_bottle.py                                               #
+# Authors:                                                                      #
+#           Lorenzo Lamberti    <lorenzo.lamberti@unibo.it>                     #
+#           Luca Bompani        <luca.bompani5@unibo.it>                        #
+#           Manuele Rusci       <manuele.rusci@kuleuven.be>                     #
+#           Daniele Palossi     <dpalossi@ethz.ch> <daniele.palossi@supsi.ch>   #
+# Date:     01.04.2023                                                          #
+#-------------------------------------------------------------------------------#
+   
